@@ -1,4 +1,4 @@
-`EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools`
+![WhatsApp Image 2024-09-10 at 22 03 18_cb7bfd8c](https://github.com/user-attachments/assets/31120ebc-a3b0-44b2-92d7-5d2a30c14158)`EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools`
 
 `AIM:` 
 
@@ -8,7 +8,10 @@ To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools,
 
 -Right Click and open the terminal window <brk>
 
--Type the following commands as follows and press enter. • csh • source /cadence/install/cshrc • virtuoso Procedure for Schematic simulation using Cadence <brk>
+-Type the following commands as follows and press enter. 
+• csh<brk>
+• source /cadence/install/cshrc <brk>
+• virtuoso Procedure for Schematic simulation using Cadence <brk>
 
 -Now two windows must open <brk>
 i)virtuoso/command interpreter window <brk>
